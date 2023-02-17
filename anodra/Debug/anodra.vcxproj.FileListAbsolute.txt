@@ -1,0 +1,3 @@
+C:\Users\mrd\Documents\anodra\anodra\Debug\anodra.vcxproj.AssemblyReference.cache
+C:\Users\mrd\Documents\anodra\anodra\Debug\anodra.Form1.resources
+C:\Users\mrd\Documents\anodra\anodra\Debug\anodra.vcxproj.GenerateResource.cache
